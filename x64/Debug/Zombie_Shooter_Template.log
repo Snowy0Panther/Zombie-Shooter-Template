@@ -1,37 +1,148 @@
-﻿  CreateHorde.cpp
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(25,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(26,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(31,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(32,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(37,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(38,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(43,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(44,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+﻿  Bullet.cpp
+  Pickup.cpp
+D:\Repo\Zombie-Shooter-Template\Pickup.cpp(29,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Pickup.cpp(30,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Pickup.cpp(55,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Pickup.cpp(55,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Pickup.cpp(111,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Pickup.cpp(115,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+D:\Repo\Zombie-Shooter-Template\Player.cpp(7,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Player.cpp(8,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Player.cpp(22,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Player.cpp(23,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Player.cpp(29,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\Player.cpp(30,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\Player.cpp(162,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\Player.cpp(167,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\Player.cpp(172,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\Player.cpp(177,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\Player.cpp(181,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Player.cpp(191,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Player.cpp(197,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  TextureHolder.cpp
+  Zombie.cpp
+D:\Repo\Zombie-Shooter-Template\Zombie.cpp(46,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Zombie.cpp(127,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CreateBackground.cpp
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(31,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(31,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(32,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(32,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(33,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(33,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(34,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(34,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(53,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(54,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(55,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Repo\Zombie-Shooter-Template\CreateBackground.cpp(56,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CreateHorde.cpp
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(25,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(26,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(31,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(32,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(37,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(38,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(43,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Repo\Zombie-Shooter-Template\CreateHorde.cpp(44,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Zombie_Shooter_Template.cpp
-D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(26,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Zombie_Shooter_Template.cpp(26,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(27,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Zombie_Shooter_Template.cpp(27,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(29,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Zombie_Shooter_Template.cpp(29,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
           with
           [
               T=float
           ]
-D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(29,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Zombie_Shooter_Template.cpp(29,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
           with
           [
               T=float
           ]
-D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(619,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Repo\Zombie-Shooter-Template\Zombie_Shooter_Template.cpp(619,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
   Generating Code...
-  Zombie_Shooter_Template.vcxproj -> D:\VS_Projects\Zombie_Shooter_Template\x64\Debug\Zombie_Shooter_Template.exe
+  Zombie_Shooter_Template.vcxproj -> D:\Repo\Zombie-Shooter-Template\x64\Debug\Zombie_Shooter_Template.exe
