@@ -1,0 +1,37 @@
+﻿  CreateHorde.cpp
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(25,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(26,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(31,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(32,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(37,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(38,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(43,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS_Projects\Zombie_Shooter_Template\CreateHorde.cpp(44,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Zombie_Shooter_Template.cpp
+D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(26,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(27,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(29,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(29,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS_Projects\Zombie_Shooter_Template\Zombie_Shooter_Template.cpp(619,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Zombie_Shooter_Template.vcxproj -> D:\VS_Projects\Zombie_Shooter_Template\x64\Debug\Zombie_Shooter_Template.exe
